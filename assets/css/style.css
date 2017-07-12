@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono');
 
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Cutive Mono', monospace;
     background-color: lightgrey;
 }
 
