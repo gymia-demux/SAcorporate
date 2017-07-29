@@ -1,1 +1,1 @@
-©2017 gymia® Industries SRL & Sintesi Additiva SRL
+©2017 Sintesi Additiva SRL
